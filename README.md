@@ -2,7 +2,7 @@
 Passionate and knowledgeable nanny with a strong background in STEM (Science, Technology, Engineering, Mathematics), art, and environmental science, seeking a position where I can utilize my diverse skills to create a stimulating, educational, and nurturing environment for children.
 
 ![Anita Vafaei's Photo](https://github.com/AnitaVafaei/NannyCV/blob/main/Anita.jpg)
-<img src="https://github.com/AnitaVafaei/NannyCV/blob/main/Anita.jpg" width="30" height="40" alt="Anita Vafaei's Photo">
+<img src="https://github.com/AnitaVafaei/NannyCV/blob/main/Anita.jpg" width="70" height="80" alt="Anita Vafaei's Photo">
 
 
 

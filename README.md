@@ -12,7 +12,7 @@ Passionate and knowledgeable nanny with a strong background in STEM (Science, Te
 # Anita Vafaei
 **Location:** Milan  
 **Email:** anitavafaee@gmail.com  
-**GitHub:** [Your GitHub Profile URL]
+**GitHub:** https://github.com/AnitaVafaei
 
 ## Objective
 Enthusiastic and multifaceted nanny with a strong background in environmental health, STEM, and the arts, seeking a position where I can utilize my diverse skills to foster a stimulating, educational, and nurturing environment for children.
